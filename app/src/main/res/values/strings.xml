@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Radio Button Tutorial</string>
+
+    <string name="question">What is the world\'s highest mountain?</string>
+    <string name="answer1">Matterhorn</string>
+    <string name="answer2">Mount Olympus</string>
+    <string name="answer3">Mount Everest</string>
+    <string name="answer4">Mount Fuji</string>
+    <string name="submit_answer">Submit Answer</string>
+    <string name="correct_answer">Correct Answer</string>
+    <string name="incorrect_answer">Incorrect Answer</string>
+    <string name="missing_answer">Missing Answer</string>
+
+</resources>
